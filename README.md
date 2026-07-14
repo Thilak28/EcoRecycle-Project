@@ -181,7 +181,7 @@ The application uses:
 
 ## Author
 
-**Kaveri**
+**Thilak**
 
 GitHub:
 https://github.com/Thilak28
